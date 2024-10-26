@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "859224571061",
+    "project_id": "diet-2c59c",
+    "storage_bucket": "diet-2c59c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859224571061:android:ba54d18fda3d07b87892fc",
+        "android_client_info": {
+          "package_name": "com.example.diet_recall"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqHWT0dUT0lWBIwmEzPGAzUCNaKKLX5kI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
